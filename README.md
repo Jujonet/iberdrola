@@ -6,6 +6,8 @@ This library aims to help make integrations with the *Iberdrola API*.
 1) Install via composer
 ```
 composer require zoilomora/iberdrola
+aunque para instalarlo globalmente:
+composer global require zoilomora/iberdrola
 ```
 
 ## Example
